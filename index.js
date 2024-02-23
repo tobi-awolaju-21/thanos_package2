@@ -16,3 +16,4 @@ function snap(directory) {
 }
 
 module.exports = { snap };
+
